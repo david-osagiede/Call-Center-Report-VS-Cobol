@@ -1,0 +1,20 @@
+{
+    "name": "mafd-w2023-call-center-report",
+  "version": "1.0.0",
+  "description": "call center report",
+  "main": "app.js",
+  "repository": "https://github.com/ospaghetti/Call-Center-Report-VS-Cobol",
+  "author": "David Osagiede <david.osagiede@dcmail.ca>",
+    "private": true,
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "axios": "^0.27",
+        "laravel-vite-plugin": "^0.6.0",
+        "lodash": "^4.17.19",
+        "postcss": "^8.1.14",
+        "vite": "^3.0.0"
+    }
+}

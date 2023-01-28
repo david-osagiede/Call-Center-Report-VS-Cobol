@@ -1,0 +1,5 @@
+C:\Users\yungo\Downloads\A7-CallCenterOpReport\A7-CallCenterOpReport\bin\x86\Debug\A7_CallCenterOpReport.exe
+C:\Users\yungo\Downloads\A7-CallCenterOpReport\A7-CallCenterOpReport\bin\x86\Debug\A7-CallCenterOpReport.idy
+C:\Users\yungo\Downloads\A7-CallCenterOpReport\A7-CallCenterOpReport\obj\x86\Debug\A7_CallCenterOpReport.exe
+C:\Users\yungo\Downloads\A7-CallCenterOpReport\A7-CallCenterOpReport\obj\x86\Debug\A7-CallCenterOpReport.idy
+C:\Users\yungo\Downloads\A7-CallCenterOpReport\A7-CallCenterOpReport\obj\x86\Debug\A7-CallCenterOpReport.obj
